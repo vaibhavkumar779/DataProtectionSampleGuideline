@@ -54,7 +54,7 @@ At [Company Name], safeguarding sensitive data is a top priority. Protecting Per
 
 ### 10. Password Management
 
-    - **10.1 Strong Passwords:** Use strong, unique passwords for all accounts and systems. Consider implementing multi-factor authentication (MFA) wherever possible.
+- **10.1 Strong Passwords:** Use strong, unique passwords for all accounts and systems. Consider implementing multi-factor authentication (MFA) wherever possible.
 
 ### 11. Controlled Access to Applications/Repositories
 
